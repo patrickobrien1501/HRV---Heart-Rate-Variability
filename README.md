@@ -1,11 +1,6 @@
 # HRV---Heart-Rate-Variability
 Calculation of heart rate variability 
 
-test change
+HRV Ball's output is a picture which can be transformed into a .csv via webplotdigitizer
 
-
-xxx
-
-ldfkjgdfg
-
-dfgkjfdg
+First I'm looking for a method to read the graph data from an image
